@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+h1 {
+    color: #3498db;
+    font-size: 2em;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+form {
+    background: #d6eaf8;
+    padding: 1rem;
+}
+form input {
+    margin-bottom: 0.5rem;
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 24px;
+    }
+    p {
+        font-size: 14px;
+    }
+}
