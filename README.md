@@ -75,12 +75,3 @@ This project guides you through building a fully functional and dynamic front-en
 - Git & GitHub
 
 ---
-
-## 📂 Folder Structure
-
-/project-root
-│
-├── index.html
-├── styles.css
-├── styles.scss
-├── script.js
