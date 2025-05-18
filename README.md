@@ -1,4 +1,4 @@
-# 🧠 Cognifyz - Interactive Website Development
+# Interactive Website Development
 
 **Level: Beginner to Expert**  
 **Track: Where Data Meets Intelligence**  
